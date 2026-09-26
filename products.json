@@ -1,0 +1,767 @@
+[
+  {
+    "id": "BABY-001",
+    "name": "Baby Hooded Towel",
+    "category": "Towels",
+    "sku": "006-176",
+    "size": "85 × 85 cm",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.07 PM (1).jpeg",
+    "description": "Soft hooded towel for drying and wrapping a baby. Size and product type are printed on the image."
+  },
+  {
+    "id": "BABY-002",
+    "name": "Printed Bubble Blanket",
+    "category": "Blankets",
+    "sku": "001-64",
+    "size": "100 × 100 cm",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.07 PM (2).jpeg",
+    "description": "Printed bubble-texture baby blanket for everyday wrapping and comfort."
+  },
+  {
+    "id": "BABY-003",
+    "name": "Muslin Bubble Blanket",
+    "category": "Blankets",
+    "sku": "001-49",
+    "size": "100 × 100 cm",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.07 PM (3).jpeg",
+    "description": "Muslin bubble-texture blanket with a lightweight, soft-looking finish."
+  },
+  {
+    "id": "BABY-004",
+    "name": "Printed Muslin Napkin",
+    "category": "Napkins & Cloths",
+    "sku": "007-184",
+    "size": "25 × 25 cm",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.07 PM.jpeg",
+    "description": "Small printed muslin napkin for everyday baby-care use."
+  },
+  {
+    "id": "BABY-005",
+    "name": "Baby Muslin Swaddle – Mixed Colours & Prints",
+    "category": "Swaddles",
+    "sku": "006-156",
+    "size": "110 × 120 cm",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.08 PM (1).jpeg",
+    "description": "Baby muslin swaddle shown in assorted colours and prints."
+  },
+  {
+    "id": "BABY-006",
+    "name": "3-Piece Card Socks",
+    "category": "Socks & Booties",
+    "sku": "003-109",
+    "size": "3-piece set",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.08 PM (2).jpeg",
+    "description": "Three-pair baby sock set shown in assorted designs."
+  },
+  {
+    "id": "BABY-007",
+    "name": "Anti-Slip Face Socks Booties",
+    "category": "Socks & Booties",
+    "sku": "003-80",
+    "size": "Not specified",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.08 PM (3).jpeg",
+    "description": "Baby face-design socks/booties with a non-slip sole; image also highlights soft comfort and gifting."
+  },
+  {
+    "id": "BABY-008",
+    "name": "3-Piece Folding Socks",
+    "category": "Socks & Booties",
+    "sku": "003-101",
+    "size": "3-piece set",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.08 PM.jpeg",
+    "description": "Three-piece folding baby sock set in assorted designs."
+  },
+  {
+    "id": "BABY-009",
+    "name": "3-Piece Anti-Slip Socks",
+    "category": "Socks & Booties",
+    "sku": "003-113",
+    "size": "3-piece set",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.09 PM (1).jpeg",
+    "description": "Three-piece baby sock set with anti-slip styling."
+  },
+  {
+    "id": "BABY-010",
+    "name": "3-Piece Folding Socks",
+    "category": "Socks & Booties",
+    "sku": "003-111",
+    "size": "3-piece set",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.09 PM (2).jpeg",
+    "description": "Three-piece folding baby sock set in assorted designs."
+  },
+  {
+    "id": "BABY-011",
+    "name": "3-Piece Anti-Slip Face Socks with Rattle Sound",
+    "category": "Socks & Booties",
+    "sku": "003-106",
+    "size": "3-piece set",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.09 PM (3).jpeg",
+    "description": "Face-design baby socks with anti-slip bottoms and a rattle feature, as labelled in the image."
+  },
+  {
+    "id": "BABY-012",
+    "name": "3-Piece Anti-Slip Pull-Up Face Socks",
+    "category": "Socks & Booties",
+    "sku": "003-100",
+    "size": "3-piece set",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.09 PM.jpeg",
+    "description": "Pull-up face-design baby socks with anti-slip styling."
+  },
+  {
+    "id": "BABY-013",
+    "name": "3-Piece Anti-Slip Folding Face Socks with Rattle Sound",
+    "category": "Socks & Booties",
+    "sku": "Not legible",
+    "size": "3-piece set",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.10 PM (1).jpeg",
+    "description": "Folding face-design socks with anti-slip bottoms and a rattle feature. Model/price need checking against the image."
+  },
+  {
+    "id": "BABY-014",
+    "name": "Face Socks Booties",
+    "category": "Socks & Booties",
+    "sku": "003-340?",
+    "size": "Not specified",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.10 PM (2).jpeg",
+    "description": "Soft baby face-design sock booties. Model number is unclear in the source image."
+  },
+  {
+    "id": "BABY-015",
+    "name": "3-Piece Anti-Slip Folding Socks",
+    "category": "Socks & Booties",
+    "sku": "003-108",
+    "size": "3-piece set",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.10 PM (3).jpeg",
+    "description": "Three-piece folding baby socks with anti-slip styling."
+  },
+  {
+    "id": "BABY-016",
+    "name": "3-Piece Face Socks",
+    "category": "Socks & Booties",
+    "sku": "003-104",
+    "size": "3-piece set",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.10 PM.jpeg",
+    "description": "Three-piece baby face-design sock set."
+  },
+  {
+    "id": "BABY-017",
+    "name": "Bubble Hooded Blanket with Belt",
+    "category": "Blankets",
+    "sku": "001-41",
+    "size": "90 × 90 cm; zip-lock bag shown",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.11 PM (1).jpeg",
+    "description": "Bubble-texture hooded baby blanket with a belt; image notes a zip-lock bag."
+  },
+  {
+    "id": "BABY-018",
+    "name": "6-Layer Muslin Blanket",
+    "category": "Blankets",
+    "sku": "001-59",
+    "size": "110 × 110 cm",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.11 PM (2).jpeg",
+    "description": "Six-layer muslin baby blanket."
+  },
+  {
+    "id": "BABY-019",
+    "name": "Muslin Blanket",
+    "category": "Blankets",
+    "sku": "001-52",
+    "size": "100 × 100 cm",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.11 PM (3).jpeg",
+    "description": "Muslin baby blanket for everyday use. Price should be verified."
+  },
+  {
+    "id": "BABY-020",
+    "name": "Cotton Baby Blanket",
+    "category": "Blankets",
+    "sku": "006-155",
+    "size": "105 × 110 cm",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.11 PM.jpeg",
+    "description": "Cotton baby blanket, as labelled in the source image."
+  },
+  {
+    "id": "BABY-021",
+    "name": "Baby Sleeping Bag",
+    "category": "Sleepwear & Swaddles",
+    "sku": "001-76",
+    "size": "Not specified",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.12 PM (1).jpeg",
+    "description": "Baby sleeping bag shown in assorted colours/prints."
+  },
+  {
+    "id": "BABY-022",
+    "name": "Anti-Slip Face Fur Booties",
+    "category": "Socks & Booties",
+    "sku": "003-115",
+    "size": "Not specified",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.12 PM (2).jpeg",
+    "description": "Fur-style baby booties with anti-slip styling."
+  },
+  {
+    "id": "BABY-023",
+    "name": "Beige Printed Muslin Napkin",
+    "category": "Napkins & Cloths",
+    "sku": "007-189",
+    "size": "Not specified",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.12 PM (3).jpeg",
+    "description": "Beige printed muslin napkin."
+  },
+  {
+    "id": "BABY-024",
+    "name": "3-Piece Baby Socks",
+    "category": "Socks & Booties",
+    "sku": "003-112",
+    "size": "3-piece set",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.12 PM.jpeg",
+    "description": "Three-piece baby sock set in mixed designs."
+  },
+  {
+    "id": "BABY-025",
+    "name": "Printed Muslin Napkin",
+    "category": "Napkins & Cloths",
+    "sku": "007-187",
+    "size": "30 × 30 cm",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.13 PM (1).jpeg",
+    "description": "Printed muslin napkin."
+  },
+  {
+    "id": "BABY-026",
+    "name": "Baby Bath Towel",
+    "category": "Towels",
+    "sku": "006-182",
+    "size": "70 × 140 cm",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.13 PM (2).jpeg",
+    "description": "Baby bath towel; dimensions are printed on the image."
+  },
+  {
+    "id": "BABY-027",
+    "name": "Napkin – Mixed Prints",
+    "category": "Napkins & Cloths",
+    "sku": "007-190",
+    "size": "Not specified",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.13 PM.jpeg",
+    "description": "Assorted-print napkin. Confirm the displayed price and unit before publishing."
+  },
+  {
+    "id": "BABY-028",
+    "name": "Premium Winter Cap",
+    "category": "Winter Accessories",
+    "sku": "008-191",
+    "size": "Not specified",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.29 PM.jpeg",
+    "description": "Warm baby winter cap in assorted designs."
+  },
+  {
+    "id": "BABY-029",
+    "name": "Premium Winter Cap",
+    "category": "Winter Accessories",
+    "sku": "008-194",
+    "size": "Not specified",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.30 PM (1).jpeg",
+    "description": "Premium-style baby winter cap in assorted designs."
+  },
+  {
+    "id": "BABY-030",
+    "name": "Winter Cap – Assorted Styles",
+    "category": "Winter Accessories",
+    "sku": "008-202–206",
+    "size": "Not specified",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.30 PM (2).jpeg",
+    "description": "Winter-cap designs shown together; image appears to reference a range of model numbers."
+  },
+  {
+    "id": "BABY-031",
+    "name": "Winter Cap",
+    "category": "Winter Accessories",
+    "sku": "008-211",
+    "size": "Not specified",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.30 PM (3).jpeg",
+    "description": "Baby winter cap in assorted colours/designs."
+  },
+  {
+    "id": "BABY-032",
+    "name": "Winter Cap",
+    "category": "Winter Accessories",
+    "sku": "008-210",
+    "size": "Not specified",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.30 PM.jpeg",
+    "description": "Baby winter cap in assorted colours/designs."
+  },
+  {
+    "id": "BABY-033",
+    "name": "Premium Winter Cap",
+    "category": "Winter Accessories",
+    "sku": "008-217",
+    "size": "Not specified",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.31 PM (1).jpeg",
+    "description": "Premium baby winter cap in assorted designs."
+  },
+  {
+    "id": "BABY-034",
+    "name": "Premium Winter Cap",
+    "category": "Winter Accessories",
+    "sku": "008-219",
+    "size": "Not specified",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.31 PM (2).jpeg",
+    "description": "Premium baby winter cap in assorted designs."
+  },
+  {
+    "id": "BABY-035",
+    "name": "Winter Cap",
+    "category": "Winter Accessories",
+    "sku": "008-208",
+    "size": "Not specified",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.31 PM (3).jpeg",
+    "description": "Baby winter cap in assorted designs."
+  },
+  {
+    "id": "BABY-036",
+    "name": "Monkey Cap",
+    "category": "Winter Accessories",
+    "sku": "008-197",
+    "size": "Not specified",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.31 PM.jpeg",
+    "description": "Baby monkey-style winter cap."
+  },
+  {
+    "id": "BABY-037",
+    "name": "Hooded Towel",
+    "category": "Towels",
+    "sku": "001-45",
+    "size": "80 × 80 cm",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.32 PM (1).jpeg",
+    "description": "Hooded baby towel."
+  },
+  {
+    "id": "BABY-038",
+    "name": "Muslin Towel – Colour Screen Print",
+    "category": "Towels",
+    "sku": "006-168",
+    "size": "50 × 100 cm",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.32 PM (2).jpeg",
+    "description": "Muslin towel with a colour screen-print design."
+  },
+  {
+    "id": "BABY-039",
+    "name": "Premium Winter Cap",
+    "category": "Winter Accessories",
+    "sku": "008-220",
+    "size": "Not specified",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.32 PM (3).jpeg",
+    "description": "Premium baby winter cap in assorted designs."
+  },
+  {
+    "id": "BABY-040",
+    "name": "Premium Winter Cap",
+    "category": "Winter Accessories",
+    "sku": "008-215",
+    "size": "Not specified",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.32 PM.jpeg",
+    "description": "Premium baby winter cap in assorted designs."
+  },
+  {
+    "id": "BABY-041",
+    "name": "Hooded Towel – 3-Piece Set",
+    "category": "Towels",
+    "sku": "001-68",
+    "size": "3-piece set",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.33 PM (1).jpeg",
+    "description": "Three-piece hooded towel set."
+  },
+  {
+    "id": "BABY-042",
+    "name": "Napkin",
+    "category": "Napkins & Cloths",
+    "sku": "001-48",
+    "size": "30 × 30 cm",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.33 PM (2).jpeg",
+    "description": "Baby napkin; source image lists dimensions."
+  },
+  {
+    "id": "BABY-043",
+    "name": "Premium Winter Cap",
+    "category": "Winter Accessories",
+    "sku": "008-213",
+    "size": "Not specified",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.33 PM (3).jpeg",
+    "description": "Premium baby winter cap in assorted designs."
+  },
+  {
+    "id": "BABY-044",
+    "name": "Premium Winter Cap",
+    "category": "Winter Accessories",
+    "sku": "008-218",
+    "size": "Not specified",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.33 PM.jpeg",
+    "description": "Premium baby winter cap in assorted designs."
+  },
+  {
+    "id": "BABY-045",
+    "name": "Baby Hooded Towel",
+    "category": "Towels",
+    "sku": "001-56",
+    "size": "80 × 80 cm",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.34 PM (1).jpeg",
+    "description": "Baby hooded towel."
+  },
+  {
+    "id": "BABY-046",
+    "name": "Terry Bath Towel",
+    "category": "Towels",
+    "sku": "001-70",
+    "size": "70 × 140 cm",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.34 PM (2).jpeg",
+    "description": "Terry bath towel."
+  },
+  {
+    "id": "BABY-047",
+    "name": "Muslin Side-Button Bib",
+    "category": "Bibs",
+    "sku": "001-23",
+    "size": "Not specified",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.34 PM (3).jpeg",
+    "description": "Muslin baby bib with side-button fastening."
+  },
+  {
+    "id": "BABY-048",
+    "name": "Muslin Colour Napkin",
+    "category": "Napkins & Cloths",
+    "sku": "001-55",
+    "size": "25 × 25 cm",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.34 PM (4).jpeg",
+    "description": "Colour-design muslin napkin."
+  },
+  {
+    "id": "BABY-049",
+    "name": "Winter Cap",
+    "category": "Winter Accessories",
+    "sku": "008-209",
+    "size": "Not specified",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.34 PM.jpeg",
+    "description": "Baby winter cap in assorted designs."
+  },
+  {
+    "id": "BABY-050",
+    "name": "Pocket Button Bib",
+    "category": "Bibs",
+    "sku": "001-47",
+    "size": "Not specified",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.35 PM (1).jpeg",
+    "description": "Baby bib with a pocket and button closure; image highlights food-catching use."
+  },
+  {
+    "id": "BABY-051",
+    "name": "Muslin Towel – Colour Screen Print",
+    "category": "Towels",
+    "sku": "006-163",
+    "size": "60 × 120 cm",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.35 PM (2).jpeg",
+    "description": "Muslin towel with a colour screen-print design."
+  },
+  {
+    "id": "BABY-052",
+    "name": "Winter Cap",
+    "category": "Winter Accessories",
+    "sku": "008-207",
+    "size": "Not specified",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.35 PM (3).jpeg",
+    "description": "Baby winter cap in assorted designs."
+  },
+  {
+    "id": "BABY-053",
+    "name": "Plastic Button Bib",
+    "category": "Bibs",
+    "sku": "001-25",
+    "size": "Not specified",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.35 PM.jpeg",
+    "description": "Baby bib with plastic button fastening."
+  },
+  {
+    "id": "BABY-054",
+    "name": "Button Ear Bib",
+    "category": "Bibs",
+    "sku": "001-22",
+    "size": "Not specified",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.36 PM (1).jpeg",
+    "description": "Baby bib with button fastening and ear-style design."
+  },
+  {
+    "id": "BABY-055",
+    "name": "XYZ Button Bib",
+    "category": "Bibs",
+    "sku": "001-24",
+    "size": "Not specified",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.36 PM (2).jpeg",
+    "description": "Button-fastening baby bib in the XYZ design."
+  },
+  {
+    "id": "BABY-056",
+    "name": "Silicone Bib",
+    "category": "Bibs",
+    "sku": "001-32",
+    "size": "Not specified",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.36 PM (3).jpeg",
+    "description": "Silicone baby bib."
+  },
+  {
+    "id": "BABY-057",
+    "name": "Button Bib",
+    "category": "Bibs",
+    "sku": "001-01",
+    "size": "Not specified",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.36 PM.jpeg",
+    "description": "Baby bib with button fastening."
+  },
+  {
+    "id": "BABY-058",
+    "name": "Carter’s Bib – Mixed Embroidery",
+    "category": "Bibs",
+    "sku": "001-30",
+    "size": "Not specified",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.37 PM (1).jpeg",
+    "description": "Baby bib with assorted embroidery designs. Brand wording is transcribed from the image; verify brand usage rights."
+  },
+  {
+    "id": "BABY-059",
+    "name": "Mix-Designs Button Bib",
+    "category": "Bibs",
+    "sku": "001-29",
+    "size": "Not specified",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.37 PM (2).jpeg",
+    "description": "Button-fastening baby bib in mixed designs."
+  },
+  {
+    "id": "BABY-060",
+    "name": "Velvet Baba Suit",
+    "category": "Baby Clothing",
+    "sku": "005-134",
+    "size": "Not specified",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.37 PM (3).jpeg",
+    "description": "Velvet baby suit in assorted colours/designs."
+  },
+  {
+    "id": "BABY-061",
+    "name": "Button Ear Bib",
+    "category": "Bibs",
+    "sku": "001-31",
+    "size": "Not specified",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.37 PM.jpeg",
+    "description": "Baby bib with button fastening and ear-style design."
+  },
+  {
+    "id": "BABY-062",
+    "name": "Hooded Baba Suit",
+    "category": "Baby Clothing",
+    "sku": "005-120?",
+    "size": "Not specified",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.38 PM (1).jpeg",
+    "description": "Hooded baby suit/set; exact model number should be checked on the image."
+  },
+  {
+    "id": "BABY-063",
+    "name": "Hooded Baba Suit",
+    "category": "Baby Clothing",
+    "sku": "Not legible",
+    "size": "Not specified",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.38 PM (2).jpeg",
+    "description": "Hooded baby suit shown in assorted colours. Model and price need verification."
+  },
+  {
+    "id": "BABY-064",
+    "name": "Velvet Baba Suit",
+    "category": "Baby Clothing",
+    "sku": "005-138",
+    "size": "Size marking visible: 59–66",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.38 PM (3).jpeg",
+    "description": "Velvet baby suit; size marking appears on the image."
+  },
+  {
+    "id": "BABY-065",
+    "name": "Hooded Baba Suit",
+    "category": "Baby Clothing",
+    "sku": "005-132",
+    "size": "Size marking visible: 55–60",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.38 PM (4).jpeg",
+    "description": "Hooded baby suit; size marking appears on the image."
+  },
+  {
+    "id": "BABY-066",
+    "name": "Cartoon Button Bib",
+    "category": "Bibs",
+    "sku": "001-28",
+    "size": "Not specified",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.38 PM.jpeg",
+    "description": "Cartoon-design baby bib with button fastening."
+  },
+  {
+    "id": "BABY-067",
+    "name": "Hooded Baba Suit",
+    "category": "Baby Clothing",
+    "sku": "005-128",
+    "size": "Size marking visible: 55–60",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.39 PM (1).jpeg",
+    "description": "Hooded baby suit; size marking appears on the image."
+  },
+  {
+    "id": "BABY-068",
+    "name": "Velvet Baba Suit",
+    "category": "Baby Clothing",
+    "sku": "005-145",
+    "size": "Size marking visible: 73–80–90",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.39 PM (2).jpeg",
+    "description": "Velvet baby suit; size range is printed on the image."
+  },
+  {
+    "id": "BABY-069",
+    "name": "Velvet Baba Suit",
+    "category": "Baby Clothing",
+    "sku": "005-149",
+    "size": "Size marking visible: 66–73–80",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.39 PM (3).jpeg",
+    "description": "Velvet baby suit; size range is printed on the image."
+  },
+  {
+    "id": "BABY-070",
+    "name": "Velvet Baba Suit",
+    "category": "Baby Clothing",
+    "sku": "005-136",
+    "size": "Size marking visible: 59–66",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.39 PM.jpeg",
+    "description": "Velvet baby suit; size marking appears on the image."
+  },
+  {
+    "id": "BABY-071",
+    "name": "Velvet Baba Suit",
+    "category": "Baby Clothing",
+    "sku": "005-144",
+    "size": "Size marking visible: 73–80–90",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.40 PM (1).jpeg",
+    "description": "Velvet baby suit; size range is printed on the image."
+  },
+  {
+    "id": "BABY-072",
+    "name": "Muslin Towel – Colour Screen Print",
+    "category": "Towels",
+    "sku": "006-162",
+    "size": "70 × 140 cm",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.40 PM (2).jpeg",
+    "description": "Muslin towel with a colour screen-print design."
+  },
+  {
+    "id": "BABY-073",
+    "name": "Premium Winter Cap",
+    "category": "Winter Accessories",
+    "sku": "008-221",
+    "size": "Not specified",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.40 PM (3).jpeg",
+    "description": "Premium baby winter cap in assorted designs."
+  },
+  {
+    "id": "BABY-074",
+    "name": "Velvet Baba Suit",
+    "category": "Baby Clothing",
+    "sku": "005-151",
+    "size": "Size marking visible: 66–73–80",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.40 PM.jpeg",
+    "description": "Velvet baby suit; size range is printed on the image."
+  },
+  {
+    "id": "BABY-075",
+    "name": "Premium Winter Cap",
+    "category": "Winter Accessories",
+    "sku": "008-222",
+    "size": "Not specified",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.41 PM (1).jpeg",
+    "description": "Premium baby winter cap in assorted designs."
+  },
+  {
+    "id": "BABY-076",
+    "name": "Muslin Button Bib",
+    "category": "Bibs",
+    "sku": "001-21",
+    "size": "Not specified",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.41 PM (2).jpeg",
+    "description": "Muslin baby bib with button fastening."
+  },
+  {
+    "id": "BABY-077",
+    "name": "Velvet Baba Suit",
+    "category": "Baby Clothing",
+    "sku": "005-143",
+    "size": "Size marking visible: 73–80–90",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.41 PM (3).jpeg",
+    "description": "Velvet baby suit; size range is printed on the image."
+  },
+  {
+    "id": "BABY-078",
+    "name": "Cartoon Button Bib",
+    "category": "Bibs",
+    "sku": "001-27",
+    "size": "Not specified",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.41 PM.jpeg",
+    "description": "Cartoon-design baby bib with button fastening."
+  },
+  {
+    "id": "BABY-079",
+    "name": "Velvet Baba Suit",
+    "category": "Baby Clothing",
+    "sku": "005-147",
+    "size": "Size marking visible: 66–73–80",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.42 PM (1).jpeg",
+    "description": "Velvet baby suit; size range is printed on the image."
+  },
+  {
+    "id": "BABY-080",
+    "name": "Velvet Baba Suit",
+    "category": "Baby Clothing",
+    "sku": "005-154",
+    "size": "Size marking visible: 66–73–80",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.42 PM (2).jpeg",
+    "description": "Velvet baby suit; size range is printed on the image."
+  },
+  {
+    "id": "BABY-081",
+    "name": "Velvet Baba Suit",
+    "category": "Baby Clothing",
+    "sku": "005-142",
+    "size": "Size marking visible: 73–80–90",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.42 PM (3).jpeg",
+    "description": "Velvet baby suit; size range is printed on the image."
+  },
+  {
+    "id": "BABY-082",
+    "name": "Baby Knee Pads",
+    "category": "Baby Accessories",
+    "sku": "002-79",
+    "size": "Not specified",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.42 PM.jpeg",
+    "description": "Baby knee pads in assorted colours."
+  },
+  {
+    "id": "BABY-083",
+    "name": "Velvet Romper",
+    "category": "Baby Clothing",
+    "sku": "005-146",
+    "size": "Size marking visible: 73–80–90",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.43 PM (1).jpeg",
+    "description": "Velvet baby romper; size range is printed on the image."
+  },
+  {
+    "id": "BABY-084",
+    "name": "Carter’s Bib – Mixed Embroidery",
+    "category": "Bibs",
+    "sku": "001-30",
+    "size": "Not specified",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.43 PM (2).jpeg",
+    "description": "Baby bib with assorted embroidery designs. Appears to share model number 001-30 with another image; verify whether it is a duplicate/variant."
+  },
+  {
+    "id": "BABY-085",
+    "name": "Velvet Romper",
+    "category": "Baby Clothing",
+    "sku": "005-140",
+    "size": "Size marking visible: 59–66",
+    "image": "WhatsApp Image 2026-09-15 at 10.19.43 PM.jpeg",
+    "description": "Velvet baby romper; size marking appears on the image."
+  }
+]
