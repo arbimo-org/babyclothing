@@ -1,6 +1,6 @@
 /* Luxro.Fashion storefront. Update STORE_NAME and WHATSAPP_NUMBER before publishing. */
 const STORE_NAME = 'Arbimo';
-const WHATSAPP_NUMBER = '919029800745'; // Replace with your WhatsApp number country code included; digits only.
+const WHATSAPP_NUMBER = '917718095946'; // Replace with your WhatsApp number country code included; digits only.
 const moneyLabel = 'Price on request';
 let products = [], activeCategory = 'All', searchTerm = '', sortMode = 'featured', visibleCount = 12;
 let bag = JSON.parse(localStorage.getItem('littleNestBag') || '{}');
